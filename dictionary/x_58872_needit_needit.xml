@@ -17,6 +17,7 @@
             <choice>
                 <element inactive="true" inactive_on_update="true" label="Felicities  1" sequence="0" value="felicities1"/>
                 <element inactive="true" inactive_on_update="true" label="Human Resource 1" sequence="0" value="hr1"/>
+                <element inactive_on_update="false" label="Human Resources 2" sequence="0" value="Human Resources 2"/>
                 <element inactive_on_update="false" label="Legal 1" sequence="0" value="legal1"/>
                 <element inactive_on_update="false" label="Facilities 1" sequence="1" value="facilities1"/>
                 <element inactive="true" inactive_on_update="true" label="Human Resource 2" sequence="1" value="hr2"/>
