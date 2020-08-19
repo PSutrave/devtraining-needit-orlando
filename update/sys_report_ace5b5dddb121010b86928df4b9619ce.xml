@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby>u_what_needed,u_requested_for</additional_groupby>
         <aggregate>COUNT</aggregate>
@@ -101,6 +101,8 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-28 09:18:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>ace5b5dddb121010b86928df4b9619ce</sys_id>
         <sys_mod_count>10</sys_mod_count>
         <sys_name>NeedIt Requests by Type</sys_name>
